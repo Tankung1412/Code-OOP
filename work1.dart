@@ -1,3 +1,4 @@
+//นายเอกรัฐ ทะยะ ปสสท.3 3651051541127
 class Pair<T, U extends num>{
   T first;
   U second;
